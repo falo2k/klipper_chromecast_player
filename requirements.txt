@@ -1,0 +1,2 @@
+pychromecast==1.0.3
+zeroconf==0.17.7
